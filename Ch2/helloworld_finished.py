@@ -3,9 +3,9 @@
 #
 
 def main():
-    print("hello world!")
+    print("hola people!")
     name = input("What is your name? ")
-    print("Nice to meet you,", name)
+    print("Glad to meet you,", name)
 
 if __name__ == "__main__":
     main()
