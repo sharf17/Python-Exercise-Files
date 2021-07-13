@@ -11,11 +11,8 @@ a = 'sharf'
 print(a)
 
 # ERROR: variables of different types cannot be combined
-#a,b = 'sharf', 10
-#c = a+b
-#print(c)
+print (21+int('5'))
 # Global vs. local variables in functions
-a = 10
 def stat():
     print('Hola amigos')
     a = 20
