@@ -19,3 +19,5 @@ def stat():
     print(a)
 stat()
 print(a)
+b = 'sharf'
+print(b)
