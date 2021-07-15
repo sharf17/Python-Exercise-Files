@@ -19,5 +19,7 @@ def someFunction():
 someFunction()
 print (f) 
 
-del f
+#del f
 print (f)
+age = 22
+print(bool(age))
